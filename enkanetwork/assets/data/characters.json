@@ -1942,5 +1942,25 @@
             985,
             986
         ]
+    },
+    "10000099": {
+        "nameTextMapHash": 1705786122,
+        "iconName": "UI_AvatarIcon_Emilie",
+        "sideIconName": "UI_AvatarIcon_Side_Emilie",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            10991,
+            10992,
+            10995
+        ],
+        "talents": [
+            991,
+            992,
+            993,
+            994,
+            995,
+            996
+        ]
     }
 }

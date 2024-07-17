@@ -2014,6 +2014,21 @@
         "skillIcon": "Skill_E_Clorinde_01",
         "proudSkillGroupId": 9839
     },
+    "10991": {
+        "nameTextMapHash": 1813209645,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 9931
+    },
+    "10992": {
+        "nameTextMapHash": 1448975781,
+        "skillIcon": "Skill_S_Emilie_01",
+        "proudSkillGroupId": 9932
+    },
+    "10995": {
+        "nameTextMapHash": 1229406621,
+        "skillIcon": "Skill_E_Emilie_01",
+        "proudSkillGroupId": 9939
+    },
     "20001": {
         "nameTextMapHash": 1936482797,
         "skillIcon": "Skill_A_Dvalin_AirGun",
@@ -2214,9 +2229,44 @@
         "skillIcon": "QuesteventSkillIcon_01",
         "proudSkillGroupId": ""
     },
+    "20071": {
+        "nameTextMapHash": 834616645,
+        "skillIcon": "Skill_E_Gagana_AimShoot",
+        "proudSkillGroupId": ""
+    },
+    "20072": {
+        "nameTextMapHash": 3177119709,
+        "skillIcon": "Skill_E_Gagana_AimShoot",
+        "proudSkillGroupId": ""
+    },
+    "20073": {
+        "nameTextMapHash": 3732217821,
+        "skillIcon": "Btn_Turn",
+        "proudSkillGroupId": ""
+    },
+    "20074": {
+        "nameTextMapHash": 2610913549,
+        "skillIcon": "Btn_FairyBook_OrigamiSquirrel_01",
+        "proudSkillGroupId": ""
+    },
+    "20075": {
+        "nameTextMapHash": 376510565,
+        "skillIcon": "Btn_FairyBook_OrigamiSquirrel_02",
+        "proudSkillGroupId": ""
+    },
     "20077": {
         "nameTextMapHash": 3494458077,
         "skillIcon": "Skill_LanV4PartyLion_01",
+        "proudSkillGroupId": ""
+    },
+    "20078": {
+        "nameTextMapHash": 3024230189,
+        "skillIcon": "Btn_FairyBook_ToyBrick",
+        "proudSkillGroupId": ""
+    },
+    "20079": {
+        "nameTextMapHash": 3252459661,
+        "skillIcon": "Btn_FairyBook_OrigamiSquirrel_01",
         "proudSkillGroupId": ""
     },
     "20081": {
@@ -2234,9 +2284,34 @@
         "skillIcon": "Skill_LanV4PartyLion_01",
         "proudSkillGroupId": ""
     },
+    "20085": {
+        "nameTextMapHash": 253780373,
+        "skillIcon": "Btn_FairyBook_OrigamiSquirrel_02",
+        "proudSkillGroupId": ""
+    },
     "20086": {
         "nameTextMapHash": 4251923773,
         "skillIcon": "Skill_Music",
+        "proudSkillGroupId": ""
+    },
+    "20087": {
+        "nameTextMapHash": 353058109,
+        "skillIcon": "Btn_FairyBook_OrigamFrog",
+        "proudSkillGroupId": ""
+    },
+    "20088": {
+        "nameTextMapHash": 580836933,
+        "skillIcon": "Btn_FairyBook_OrigamFrog",
+        "proudSkillGroupId": ""
+    },
+    "20089": {
+        "nameTextMapHash": 2102186877,
+        "skillIcon": "Btn_FairyBook_OrigamiAlpaca",
+        "proudSkillGroupId": ""
+    },
+    "20090": {
+        "nameTextMapHash": 1916995925,
+        "skillIcon": "Btn_FairyBook_OrigamiAlpaca",
         "proudSkillGroupId": ""
     },
     "20093": {
@@ -2507,6 +2582,16 @@
     "20535": {
         "nameTextMapHash": 164728021,
         "skillIcon": "Btn_HideAndSeekV4_Hider_S",
+        "proudSkillGroupId": ""
+    },
+    "20536": {
+        "nameTextMapHash": 4291389717,
+        "skillIcon": "Skill_FairyTalesCurrent_Normal",
+        "proudSkillGroupId": ""
+    },
+    "20537": {
+        "nameTextMapHash": 841274501,
+        "skillIcon": "Skill_FairyTalesCurrent_Charge",
         "proudSkillGroupId": ""
     },
     "20538": {
@@ -3242,6 +3327,11 @@
     "5098010": {
         "nameTextMapHash": 871423685,
         "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": ""
+    },
+    "5099010": {
+        "nameTextMapHash": 119766421,
+        "skillIcon": "Skill_A_03",
         "proudSkillGroupId": ""
     }
 }

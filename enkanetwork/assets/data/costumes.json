@@ -83,5 +83,15 @@
         "iconName": "UI_AvatarIcon_XingqiuCostumeBamboo",
         "sideIconName": "UI_AvatarIcon_Side_XingqiuCostumeBamboo",
         "nameTextMapHash": 1935444386
+    },
+    "207001": {
+        "iconName": "UI_AvatarIcon_NilouCostumeFairy",
+        "sideIconName": "UI_AvatarIcon_Side_NilouCostumeFairy",
+        "nameTextMapHash": 1436816482
+    },
+    "206101": {
+        "iconName": "UI_AvatarIcon_MomokaCostumeErrantry",
+        "sideIconName": "UI_AvatarIcon_Side_MomokaCostumeErrantry",
+        "nameTextMapHash": 443620306
     }
 }

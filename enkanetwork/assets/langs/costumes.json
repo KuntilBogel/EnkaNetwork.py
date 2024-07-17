@@ -287,5 +287,39 @@
         "TH": "ไผ่พิรุณ",
         "TR": "Bambu Yağmuru",
         "VI": "Màn Mưa Rừng Trúc"
+    },
+    "1436816482": {
+        "CHS": "莎邦之息",
+        "CHT": "莎邦之息",
+        "DE": "Atem des Sabaa",
+        "EN": "Breeze of Sabaa",
+        "ES": "Brisa de Sabaa",
+        "FR": "Brise de Sabaa",
+        "ID": "Breeze of Sabaa",
+        "IT": "Brezza di Sabaa",
+        "JP": "東風はこぶ花の吐息",
+        "KR": "사바의 숨결",
+        "PT": "Suspiro do Acrídio",
+        "RU": "Дыхание Сабаа",
+        "TH": "สายลมแห่ง Sabaa",
+        "TR": "Sabaa Esintisi",
+        "VI": "Ngọn Gió Sabaa"
+    },
+    "443620306": {
+        "CHS": "倩影游侠",
+        "CHT": "倩影遊俠",
+        "DE": "Gestiefeltes Phantom",
+        "EN": "Phantom in Boots",
+        "ES": "La Dama con Botas",
+        "FR": "Fantôme en bottes",
+        "ID": "Phantom in Boots",
+        "IT": "Fantasma con gli stivali",
+        "JP": "麗しき怪傑",
+        "KR": "의적 키라냥",
+        "PT": "Beleza Errante",
+        "RU": "Призрак в сапогах",
+        "TH": "บูทเงามายา",
+        "TR": "Çizmeli Hayalet",
+        "VI": "Ảo Ảnh Đi Hia"
     }
 }

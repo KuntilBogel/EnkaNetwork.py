@@ -1998,5 +1998,35 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210205": {
+        "nameTextMapHash": 2842121124,
+        "icon": "UI_NameCardIcon_Emilie",
+        "picPath": [
+            "UI_NameCardPic_Emilie_Alpha",
+            "UI_NameCardPic_Emilie_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210206": {
+        "nameTextMapHash": 1026212828,
+        "icon": "UI_NameCardIcon_Bp34",
+        "picPath": [
+            "UI_NameCardPic_Bp34_Alpha",
+            "UI_NameCardPic_Bp34_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210207": {
+        "nameTextMapHash": 1919389884,
+        "icon": "UI_NameCardIcon_RedandWhite2",
+        "picPath": [
+            "UI_NameCardPic_RedandWhite2_Alpha",
+            "UI_NameCardPic_RedandWhite2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }
