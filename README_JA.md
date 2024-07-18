@@ -42,7 +42,7 @@ https://enka.network/ のAPIラッパーライブラリ
 # インストール
 
 ```
-pip install enkanetwork.py
+pip install git+https://github.com/0kq-github/EnkaNetwork.py.git
 ```
 
 # 使い方

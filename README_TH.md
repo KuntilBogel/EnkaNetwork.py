@@ -5,7 +5,7 @@
 
 # 💾 วิธีการติดตั้ง
 ```
-pip install enkanetwork.py
+pip install git+https://github.com/0kq-github/EnkaNetwork.py.git
 ```
 
 # ✨ วิธีใช้
