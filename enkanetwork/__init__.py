@@ -3,6 +3,7 @@ The MIT License (MIT)
 
 Copyright (c) 2015-present Rapptz
 Copyright (c) 2022-present M-307
+Copyright (c) 2024-present 0kq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -23,10 +24,10 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE."""
 
 __title__ = 'enkanetwork.py'
-__author__ = 'M-307'
-__version__ = '1.4.4'
+__author__ = '0kq (forked from M-307)'
+__version__ = 'r24.07'
 __license__ = 'MIT'
-__copyright__ = 'Copyright 2022-present M-307'
+__copyright__ = 'Copyright 2024-present 0kq'
 
 
 from .client import *
