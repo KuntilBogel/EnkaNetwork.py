@@ -136,6 +136,10 @@ class PlayerInfo(BaseModel):
     abyss_floor: int = Field(0, alias="towerFloorIndex")
     abyss_room: int = Field(0, alias="towerLevelIndex")
 
+    tower_act: int = Field(0, alias="towerAct")
+    theater_stars: int = Field(0, alias="theaterStars")
+    theater_mode: int = Field(0, alias="theaterMode")
+
     """
         Custom data
     """
