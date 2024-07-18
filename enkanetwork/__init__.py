@@ -25,7 +25,7 @@ DEALINGS IN THE SOFTWARE."""
 
 __title__ = 'enkanetwork.py'
 __author__ = '0kq (forked from M-307)'
-__version__ = 'r24.07'
+__version__ = '2024.07'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2024-present 0kq'
 
