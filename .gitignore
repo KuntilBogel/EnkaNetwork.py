@@ -13,3 +13,4 @@ export.json
 build
 update.bat
 update.py
+test.py
