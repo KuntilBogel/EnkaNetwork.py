@@ -215,6 +215,12 @@
         "awakenIcon": "UI_EquipIcon_Sword_Purewill",
         "rankLevel": 4
     },
+    "11431": {
+        "nameTextMapHash": 3434743027,
+        "icon": "UI_EquipIcon_Sword_Isikhulu",
+        "awakenIcon": "UI_EquipIcon_Sword_Isikhulu_Awaken",
+        "rankLevel": 4
+    },
     "11501": {
         "nameTextMapHash": 902264035,
         "icon": "UI_EquipIcon_Sword_Falcon",
@@ -479,6 +485,12 @@
         "awakenIcon": "UI_EquipIcon_Claymore_Mechanic_Awaken",
         "rankLevel": 4
     },
+    "12431": {
+        "nameTextMapHash": 2481464075,
+        "icon": "UI_EquipIcon_Claymore_Isikhulu",
+        "awakenIcon": "UI_EquipIcon_Claymore_Isikhulu_Awaken",
+        "rankLevel": 4
+    },
     "12501": {
         "nameTextMapHash": 1089950259,
         "icon": "UI_EquipIcon_Claymore_Dvalin",
@@ -543,6 +555,12 @@
         "nameTextMapHash": 3812523339,
         "icon": "UI_EquipIcon_Claymore_GoldenVerdict",
         "awakenIcon": "UI_EquipIcon_Claymore_GoldenVerdict_Awaken",
+        "rankLevel": 5
+    },
+    "12513": {
+        "nameTextMapHash": 1183454019,
+        "icon": "UI_EquipIcon_Claymore_EmeraldSword",
+        "awakenIcon": "UI_EquipIcon_Claymore_EmeraldSword_Awaken",
         "rankLevel": 5
     },
     "13101": {
@@ -687,6 +705,12 @@
         "nameTextMapHash": 882305891,
         "icon": "UI_EquipIcon_Pole_Mechanic",
         "awakenIcon": "UI_EquipIcon_Pole_Mechanic_Awaken",
+        "rankLevel": 4
+    },
+    "13431": {
+        "nameTextMapHash": 415520051,
+        "icon": "UI_EquipIcon_Pole_Isikhulu",
+        "awakenIcon": "UI_EquipIcon_Pole_Isikhulu_Awaken",
         "rankLevel": 4
     },
     "13501": {
@@ -923,6 +947,18 @@
         "awakenIcon": "UI_EquipIcon_Catalyst_DandelionPoem_Awaken",
         "rankLevel": 4
     },
+    "14427": {
+        "nameTextMapHash": 422144187,
+        "icon": "UI_EquipIcon_Catalyst_ConchSprayer",
+        "awakenIcon": "UI_EquipIcon_Catalyst_ConchSprayer_Awaken",
+        "rankLevel": 4
+    },
+    "14431": {
+        "nameTextMapHash": 3092853059,
+        "icon": "UI_EquipIcon_Catalyst_Isikhulu",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Isikhulu_Awaken",
+        "rankLevel": 4
+    },
     "14501": {
         "nameTextMapHash": 807607555,
         "icon": "UI_EquipIcon_Catalyst_Dvalin",
@@ -999,6 +1035,12 @@
         "nameTextMapHash": 3660626387,
         "icon": "UI_EquipIcon_Catalyst_MountainGale",
         "awakenIcon": "UI_EquipIcon_Catalyst_MountainGale_Awaken",
+        "rankLevel": 5
+    },
+    "14516": {
+        "nameTextMapHash": 1673987515,
+        "icon": "UI_EquipIcon_Catalyst_MechaPufferfish",
+        "awakenIcon": "UI_EquipIcon_Catalyst_MechaPufferfish_Awaken",
         "rankLevel": 5
     },
     "15101": {
@@ -1185,6 +1227,12 @@
         "nameTextMapHash": 1055195035,
         "icon": "UI_EquipIcon_Bow_Mechanic",
         "awakenIcon": "UI_EquipIcon_Bow_Mechanic_Awaken",
+        "rankLevel": 4
+    },
+    "15431": {
+        "nameTextMapHash": 565052971,
+        "icon": "UI_EquipIcon_Bow_Isikhulu",
+        "awakenIcon": "UI_EquipIcon_Bow_Isikhulu_Awaken",
         "rankLevel": 4
     },
     "15501": {

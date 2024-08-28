@@ -2029,6 +2029,166 @@
         "skillIcon": "Skill_E_Emilie_01",
         "proudSkillGroupId": 9939
     },
+    "11001": {
+        "nameTextMapHash": 4116744293,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 10031
+    },
+    "11002": {
+        "nameTextMapHash": 534022181,
+        "skillIcon": "Skill_S_Kachina_01",
+        "proudSkillGroupId": 10032
+    },
+    "11003": {
+        "nameTextMapHash": 3992696989,
+        "skillIcon": "Skill_S_Kachina_02",
+        "proudSkillGroupId": ""
+    },
+    "11004": {
+        "nameTextMapHash": 1905422629,
+        "skillIcon": "Skill_S_Kachina_03",
+        "proudSkillGroupId": ""
+    },
+    "11005": {
+        "nameTextMapHash": 2707726997,
+        "skillIcon": "Skill_E_Kachina_01",
+        "proudSkillGroupId": 10039
+    },
+    "11006": {
+        "nameTextMapHash": 1021682229,
+        "skillIcon": "Skill_S_Kachina_04",
+        "proudSkillGroupId": ""
+    },
+    "11007": {
+        "nameTextMapHash": 1569376461,
+        "skillIcon": "Skill_S_Kachina_04",
+        "proudSkillGroupId": ""
+    },
+    "11008": {
+        "nameTextMapHash": 972115525,
+        "skillIcon": "Skill_S_Kachina_01",
+        "proudSkillGroupId": ""
+    },
+    "11011": {
+        "nameTextMapHash": 535629773,
+        "skillIcon": "Skill_A_04",
+        "proudSkillGroupId": 10131
+    },
+    "11012": {
+        "nameTextMapHash": 2146107581,
+        "skillIcon": "Skill_S_Kinich_01",
+        "proudSkillGroupId": 10132
+    },
+    "11013": {
+        "nameTextMapHash": 1801717037,
+        "skillIcon": "Skill_S_Kinich_03",
+        "proudSkillGroupId": ""
+    },
+    "11014": {
+        "nameTextMapHash": 786377381,
+        "skillIcon": "Skill_S_Kinich_04",
+        "proudSkillGroupId": ""
+    },
+    "11016": {
+        "nameTextMapHash": 4277229853,
+        "skillIcon": "Skill_S_Kinich_06",
+        "proudSkillGroupId": ""
+    },
+    "11017": {
+        "nameTextMapHash": 1415473637,
+        "skillIcon": "Skill_S_Kinich_02",
+        "proudSkillGroupId": ""
+    },
+    "11015": {
+        "nameTextMapHash": 1181453621,
+        "skillIcon": "Skill_E_Kinich_01",
+        "proudSkillGroupId": 10139
+    },
+    "11018": {
+        "nameTextMapHash": 145263733,
+        "skillIcon": "Skill_S_Kinich_05",
+        "proudSkillGroupId": ""
+    },
+    "11019": {
+        "nameTextMapHash": 1987358669,
+        "skillIcon": "Skill_S_Kinich_07",
+        "proudSkillGroupId": ""
+    },
+    "30000": {
+        "nameTextMapHash": 3235714597,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 10231
+    },
+    "30002": {
+        "nameTextMapHash": 3723656973,
+        "skillIcon": "Skill_S_Mualani_01",
+        "proudSkillGroupId": 10232
+    },
+    "30003": {
+        "nameTextMapHash": 3579893013,
+        "skillIcon": "Skill_S_Mualani_02",
+        "proudSkillGroupId": ""
+    },
+    "30004": {
+        "nameTextMapHash": 245977253,
+        "skillIcon": "Skill_S_Mualani_05",
+        "proudSkillGroupId": ""
+    },
+    "30005": {
+        "nameTextMapHash": 3147184789,
+        "skillIcon": "Skill_S_Mualani_04",
+        "proudSkillGroupId": ""
+    },
+    "30006": {
+        "nameTextMapHash": 1075711045,
+        "skillIcon": "Skill_S_Mualani_01",
+        "proudSkillGroupId": ""
+    },
+    "30007": {
+        "nameTextMapHash": 1842584189,
+        "skillIcon": "Skill_E_Mualani_01",
+        "proudSkillGroupId": 10239
+    },
+    "30008": {
+        "nameTextMapHash": 3715641925,
+        "skillIcon": "Skill_S_Mualani_02",
+        "proudSkillGroupId": ""
+    },
+    "30009": {
+        "nameTextMapHash": 2774902061,
+        "skillIcon": "Skill_S_Mualani_01",
+        "proudSkillGroupId": ""
+    },
+    "30010": {
+        "nameTextMapHash": 1729684693,
+        "skillIcon": "Skill_S_Mualani_02",
+        "proudSkillGroupId": ""
+    },
+    "30011": {
+        "nameTextMapHash": 2382336941,
+        "skillIcon": "Skill_S_Mualani_02",
+        "proudSkillGroupId": ""
+    },
+    "30101": {
+        "nameTextMapHash": 889180221,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": ""
+    },
+    "30201": {
+        "nameTextMapHash": 201474765,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": ""
+    },
+    "30202": {
+        "nameTextMapHash": 3040408877,
+        "skillIcon": "Skill_S_Momoka_01",
+        "proudSkillGroupId": ""
+    },
+    "30206": {
+        "nameTextMapHash": 3468188821,
+        "skillIcon": "Skill_S_Momoka_02",
+        "proudSkillGroupId": ""
+    },
     "20001": {
         "nameTextMapHash": 1936482797,
         "skillIcon": "Skill_A_Dvalin_AirGun",
@@ -3332,6 +3492,21 @@
     "5099010": {
         "nameTextMapHash": 119766421,
         "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": ""
+    },
+    "5100010": {
+        "nameTextMapHash": 1628146861,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": ""
+    },
+    "5101010": {
+        "nameTextMapHash": 3791613477,
+        "skillIcon": "Skill_A_04",
+        "proudSkillGroupId": ""
+    },
+    "5102010": {
+        "nameTextMapHash": 3803106469,
+        "skillIcon": "Skill_A_Catalyst_MD",
         "proudSkillGroupId": ""
     }
 }

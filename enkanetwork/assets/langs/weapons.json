@@ -611,6 +611,23 @@
         "TR": "Nergis Haçı'nın Kılıcı",
         "VI": "Lưỡi Kiếm Narzissenkreuz"
     },
+    "3434743027": {
+        "CHS": "息燧之笛",
+        "CHT": "息燧之笛",
+        "DE": "Ezpitzal-Flöte",
+        "EN": "Flute of Ezpitzal",
+        "ES": "Flauta de Ezpitzal",
+        "FR": "Flûte d'ezpitzal",
+        "ID": "Flute of Ezpitzal",
+        "IT": "Flauto di Ezpitzal",
+        "JP": "エズピツァルの笛",
+        "KR": "에스피찰의 피리",
+        "PT": "Flauta de Ezpitzal",
+        "RU": "Флейта Эспицаль",
+        "TH": "Flute of Ezpitzal",
+        "TR": "Ezpitzal Flütü",
+        "VI": "Sáo Ezpitzal"
+    },
     "902264035": {
         "CHS": "风鹰剑",
         "CHT": "風鷹劍",
@@ -1359,6 +1376,23 @@
         "TR": "Taşınabilir Otomatik Testere",
         "VI": "Máy Cưa Cầm Tay"
     },
+    "2481464075": {
+        "CHS": "撼地者",
+        "CHT": "撼地者",
+        "DE": "Bebenmacher",
+        "EN": "Earth Shaker",
+        "ES": "Terragitador",
+        "FR": "Trembleur de terre",
+        "ID": "Earth Shaker",
+        "IT": "Sisma",
+        "JP": "アースシェイカー",
+        "KR": "대지를 울리는 자",
+        "PT": "Estremecedor da Terra",
+        "RU": "Сотрясающий землю",
+        "TH": "Earth Shaker",
+        "TR": "Yersarsan",
+        "VI": "Đao Chấn Động"
+    },
     "1089950259": {
         "CHS": "天空之傲",
         "CHT": "天空之傲",
@@ -1545,6 +1579,23 @@
         "TH": "Verdict",
         "TR": "Gereği Düşünüldü",
         "VI": "Phán Quyết"
+    },
+    "1183454019": {
+        "CHS": "山王长牙",
+        "CHT": "山王長牙",
+        "DE": "Zahn des Bergkönigs",
+        "EN": "Fang of the Mountain King",
+        "ES": "Colmillo del Rey de la Montaña",
+        "FR": "Croc du roi de la montagne",
+        "ID": "Fang of the Mountain King",
+        "IT": "Zanna del Re della Montagna",
+        "JP": "山の王の長牙",
+        "KR": "산왕의 엄니",
+        "PT": "Presa do Rei da Montanha",
+        "RU": "Клык Горного короля",
+        "TH": "Fang of the Mountain King",
+        "TR": "Dağ Kralı'nın Dişi",
+        "VI": "Nanh Sơn Vương"
     },
     "2796697027": {
         "CHS": "新手长枪",
@@ -1953,6 +2004,23 @@
         "TH": "Prospector's Drill",
         "TR": "Madenci Kazması",
         "VI": "Mũi Khoan Thăm Dò"
+    },
+    "415520051": {
+        "CHS": "虹的行迹",
+        "CHT": "虹的行跡",
+        "DE": "Spuren des Regenbogens",
+        "EN": "Footprint of the Rainbow",
+        "ES": "Estela Iridiscente",
+        "FR": "Trace d'arc-en-ciel",
+        "ID": "Footprint of the Rainbow",
+        "IT": "Orme iridate",
+        "JP": "虹の行方",
+        "KR": "무지개의 행적",
+        "PT": "Trilha do Arco-Íris",
+        "RU": "След радуги",
+        "TH": "Footprint of the Rainbow",
+        "TR": "Gökkuşağının İzi",
+        "VI": "Vết Tích Cầu Vồng"
     },
     "3235324891": {
         "CHS": "护摩之杖",
@@ -2617,6 +2685,40 @@
         "TR": "Sonsuz Mavinin Şarkısı",
         "VI": "Khúc Ca Xanh Bao La"
     },
+    "422144187": {
+        "CHS": "苍纹角杯",
+        "CHT": "蒼紋角杯",
+        "DE": "Aschgraues Trinkhorn",
+        "EN": "Ash-Graven Drinking Horn",
+        "ES": "Cuerno Veteazulado",
+        "FR": "Corne à boire cendrée",
+        "ID": "Ash-Graven Drinking Horn",
+        "IT": "Corno cinereo",
+        "JP": "蒼紋の角杯",
+        "KR": "푸른 문양 뿔잔",
+        "PT": "Cálice de Chifre Cinza Escarlate",
+        "RU": "Пепельный рог",
+        "TH": "Ash-Graven Drinking Horn",
+        "TR": "Kül Oymalı İçki Boynuzu",
+        "VI": "Sừng Rượu Vân Xanh"
+    },
+    "3092853059": {
+        "CHS": "木棉之环",
+        "CHT": "木棉之環",
+        "DE": "Yaxche-Ring",
+        "EN": "Ring of Yaxche",
+        "ES": "Anillo del Yaxché",
+        "FR": "Anneau de Yaxche",
+        "ID": "Ring of Yaxche",
+        "IT": "Anello di Yaxche",
+        "JP": "ヤシュチェの環",
+        "KR": "약스체의 고리",
+        "PT": "Anel de Yaxche",
+        "RU": "Кольцо Яшче",
+        "TH": "Ring of Yaxche",
+        "TR": "Yaxche Yüzüğü",
+        "VI": "Vòng Yaxche"
+    },
     "807607555": {
         "CHS": "天空之卷",
         "CHT": "天空之卷",
@@ -2837,6 +2939,23 @@
         "TH": "Crane's Echoing Call",
         "TR": "Turnam Selam Götür",
         "VI": "Dư Âm Tiếng Hạc"
+    },
+    "1673987515": {
+        "CHS": "冲浪时光",
+        "CHT": "衝浪時光",
+        "DE": "Zeit fürs Wellenreiten",
+        "EN": "Surf's Up",
+        "ES": "Hora de Surfear",
+        "FR": "Instant surfant",
+        "ID": "Surf's Up",
+        "IT": "Vai col surf",
+        "JP": "サーフィンタイム",
+        "KR": "서핑 타임",
+        "PT": "Hora do Surfe",
+        "RU": "Лови волну",
+        "TH": "Surf's Up",
+        "TR": "Sörf Zamanı",
+        "VI": "Thời Khắc Lướt Sóng"
     },
     "3600623979": {
         "CHS": "猎弓",
@@ -3364,6 +3483,23 @@
         "TH": "Range Gauge",
         "TR": "Menzil Göstergesi",
         "VI": "Máy Đo Cự Ly"
+    },
+    "565052971": {
+        "CHS": "碎链",
+        "CHT": "碎鏈",
+        "DE": "Zersprungene Ketten",
+        "EN": "Chain Breaker",
+        "ES": "Rompecadenas",
+        "FR": "Brise-chaîne",
+        "ID": "Chain Breaker",
+        "IT": "Spezzacatene",
+        "JP": "チェーンブレイカー",
+        "KR": "사슬 파괴자",
+        "PT": "Quebrador de Correntes",
+        "RU": "Разбивающий цепи",
+        "TH": "Chain Breaker",
+        "TR": "Zincirkıran",
+        "VI": "Phá Xích"
     },
     "3933622347": {
         "CHS": "天空之翼",

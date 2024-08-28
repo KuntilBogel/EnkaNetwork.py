@@ -11,12 +11,12 @@ with open('enkanetwork/__init__.py') as f:
 setuptools.setup(
 	name="enkanetwork.py",
 	version=version,
-	author="M-307",
-	author_email="me@m307.dev",
+	author="0kq",
+	author_email="contact@0kqnet.work",
 	description="Library for fetching JSON data from site https://enka.network/",
 	long_description=open("README.md", "r", encoding="utf-8").read(),
 	long_description_content_type="text/markdown",
-	url="https://github.com/mrwan200/EnkaNetwork.py",
+	url="https://github.com/0kq-github/EnkaNetwork.py",
 	keywords = ['enkanetwork.py', 'enkanetwork', 'enka.network', 'genshinapi'],
 	packages=setuptools.find_packages(),
 	classifiers=[

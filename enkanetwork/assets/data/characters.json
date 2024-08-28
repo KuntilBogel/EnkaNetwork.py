@@ -1962,5 +1962,65 @@
             995,
             996
         ]
+    },
+    "10000100": {
+        "nameTextMapHash": 2531816890,
+        "iconName": "UI_AvatarIcon_Kachina",
+        "sideIconName": "UI_AvatarIcon_Side_Kachina",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Rock",
+        "skills": [
+            11001,
+            11002,
+            11005
+        ],
+        "talents": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ]
+    },
+    "10000101": {
+        "nameTextMapHash": 4172712634,
+        "iconName": "UI_AvatarIcon_Kinich",
+        "sideIconName": "UI_AvatarIcon_Side_Kinich",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            11011,
+            11012,
+            11015
+        ],
+        "talents": [
+            1011,
+            1012,
+            1013,
+            1014,
+            1015,
+            1016
+        ]
+    },
+    "10000102": {
+        "nameTextMapHash": 3949670506,
+        "iconName": "UI_AvatarIcon_Mualani",
+        "sideIconName": "UI_AvatarIcon_Side_Mualani",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Water",
+        "skills": [
+            30000,
+            30002,
+            30007
+        ],
+        "talents": [
+            1021,
+            1022,
+            1023,
+            1024,
+            1025,
+            1026
+        ]
     }
 }
