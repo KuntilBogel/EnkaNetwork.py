@@ -60,6 +60,9 @@ class showAvatar(BaseModel):
     icon: IconAsset = None
     element: ElementType = ElementType.Unknown
 
+    energy_type: int = Field(0, alias="energyType")
+    talent_level: int = Field(0, alias="talentLevel")
+
     def __init__(self, **data: Any) -> None:
         super().__init__(**data)
 
@@ -137,8 +140,17 @@ class PlayerInfo(BaseModel):
     abyss_room: int = Field(0, alias="towerLevelIndex")
 
     tower_act: int = Field(0, alias="towerAct")
+    tower_star_index: int = Field(0, alias="towerStarIndex")
     theater_stars: int = Field(0, alias="theaterStars")
     theater_mode: int = Field(0, alias="theaterMode")
+
+    theater_act_index: int = Field(0, alias="theaterActIndex")
+    theater_mode_index: int = Field(0, alias="theaterModeIndex")
+    theater_star_index: int = Field(0, alias="theaterStarIndex")
+    
+    is_show_avatar_talent: bool = Field(False, alias="isShowAvatarTalent")
+    fetter_count: int = Field(0, alias="fetterCount")
+
 
     """
         Custom data
