@@ -2114,6 +2114,31 @@
         "skillIcon": "Skill_S_Kinich_07",
         "proudSkillGroupId": ""
     },
+    "11031": {
+        "nameTextMapHash": 1335063693,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 10331
+    },
+    "11032": {
+        "nameTextMapHash": 743563437,
+        "skillIcon": "Skill_S_Xilonen_01",
+        "proudSkillGroupId": 10332
+    },
+    "11035": {
+        "nameTextMapHash": 3155535173,
+        "skillIcon": "Skill_E_Xilonen_01",
+        "proudSkillGroupId": 10339
+    },
+    "11036": {
+        "nameTextMapHash": 847078933,
+        "skillIcon": "Skill_S_Xilonen_02",
+        "proudSkillGroupId": ""
+    },
+    "11037": {
+        "nameTextMapHash": 888400989,
+        "skillIcon": "Skill_S_Xilonen_01",
+        "proudSkillGroupId": ""
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -2772,6 +2797,11 @@
     "20541": {
         "nameTextMapHash": 3465751389,
         "skillIcon": "Btn_HideAndSeekV4_Seeker_A_01",
+        "proudSkillGroupId": ""
+    },
+    "20580": {
+        "nameTextMapHash": 2472473013,
+        "skillIcon": "Skill_A_DreamExplore",
         "proudSkillGroupId": ""
     },
     "20311": {
@@ -3507,6 +3537,11 @@
     "5102010": {
         "nameTextMapHash": 3803106469,
         "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": ""
+    },
+    "5103010": {
+        "nameTextMapHash": 3095315005,
+        "skillIcon": "Skill_A_01",
         "proudSkillGroupId": ""
     }
 }

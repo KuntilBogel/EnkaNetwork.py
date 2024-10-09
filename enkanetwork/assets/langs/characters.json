@@ -1511,5 +1511,39 @@
         "TH": "Mualani",
         "TR": "Mualani",
         "VI": "Mualani"
+    },
+    "2515292882": {
+        "CHS": "希诺宁",
+        "CHT": "希諾寧",
+        "DE": "Xilonen",
+        "EN": "Xilonen",
+        "ES": "Xilonen",
+        "FR": "Xilonen",
+        "ID": "Xilonen",
+        "IT": "Xilonen",
+        "JP": "シロネン",
+        "KR": "실로닌",
+        "PT": "Xilonen",
+        "RU": "Шилонен",
+        "TH": "Xilonen",
+        "TR": "Xilonen",
+        "VI": "Xilonen"
+    },
+    "3293134650": {
+        "CHS": "玛薇卡(试用)",
+        "CHT": "瑪薇卡（試用）",
+        "DE": "Mavuika (Zum Probieren)",
+        "EN": "Mavuika (Trial)",
+        "ES": "Mavuika (prueba)",
+        "FR": "Mavuika (Essai)",
+        "ID": "Mavuika (Uji Coba)",
+        "IT": "Mavuika (Prova)",
+        "JP": "マーヴィカ（お試し）",
+        "KR": "마비카 (체험)",
+        "PT": "Mavuika (Teste)",
+        "RU": "Мавуика (пробный)",
+        "TH": "Mavuika (ทดลองใช้)",
+        "TR": "Mavuika (Deneme)",
+        "VI": "Mavuika (Thử Nghiệm)"
     }
 }

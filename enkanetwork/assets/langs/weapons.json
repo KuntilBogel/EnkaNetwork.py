@@ -611,6 +611,23 @@
         "TR": "Nergis Haçı'nın Kılıcı",
         "VI": "Lưỡi Kiếm Narzissenkreuz"
     },
+    "495182275": {
+        "CHS": "弥坚骨",
+        "CHT": "彌堅骨",
+        "DE": "Robuster Knochen",
+        "EN": "Sturdy Bone",
+        "ES": "Hueso Recio",
+        "FR": "Os robuste",
+        "ID": "Sturdy Bone",
+        "IT": "Osso tenace",
+        "JP": "ストロング・ボーン",
+        "KR": "견고한 골검",
+        "PT": "Osso Robusto",
+        "RU": "Крепкая кость",
+        "TH": "Sturdy Bone",
+        "TR": "Sağlam Kemik",
+        "VI": "Xương Cứng"
+    },
     "3434743027": {
         "CHS": "息燧之笛",
         "CHT": "息燧之笛",
@@ -882,6 +899,23 @@
         "TH": "Absolution",
         "TR": "Müsamaha",
         "VI": "Xá Tội"
+    },
+    "3432339555": {
+        "CHS": "岩峰巡歌",
+        "CHT": "岩峰巡歌",
+        "DE": "Lied der Gipfelpatrouille",
+        "EN": "Peak Patrol Song",
+        "ES": "Himno de las Cumbres",
+        "FR": "Chanson de patrouille de sommet",
+        "ID": "Peak Patrol Song",
+        "IT": "Canzone della Pattuglia delle Sommità",
+        "JP": "岩峰を巡る歌",
+        "KR": "바위산을 맴도는 노래",
+        "PT": "Canção da Patrulha do Pico",
+        "RU": "Песнь патруля пиков",
+        "TH": "Peak Patrol Song",
+        "TR": "Tepe Devriyesi Şarkısı",
+        "VI": "Khúc Ca Núi Đá"
     },
     "2666951267": {
         "CHS": "训练大剑",
@@ -1375,6 +1409,23 @@
         "TH": "Portable Power Saw",
         "TR": "Taşınabilir Otomatik Testere",
         "VI": "Máy Cưa Cầm Tay"
+    },
+    "688237043": {
+        "CHS": "硕果钩",
+        "CHT": "碩果鉤",
+        "DE": "Fruchtbarer Haken",
+        "EN": "Fruitful Hook",
+        "ES": "Gancho del Triunfo",
+        "FR": "Crochet fructueux",
+        "ID": "Fruitful Hook",
+        "IT": "Gancio fruttuoso",
+        "JP": "実りの鉤鉈",
+        "KR": "수확의 갈고리",
+        "PT": "Gancho Frutífero",
+        "RU": "Плодотворный крюк",
+        "TH": "Fruitful Hook",
+        "TR": "Meyve Kancası",
+        "VI": "Móc Trĩu Quả"
     },
     "2481464075": {
         "CHS": "撼地者",
@@ -2004,6 +2055,23 @@
         "TH": "Prospector's Drill",
         "TR": "Madenci Kazması",
         "VI": "Mũi Khoan Thăm Dò"
+    },
+    "1965515667": {
+        "CHS": "镇山之钉",
+        "CHT": "鎮山之釘",
+        "DE": "Bergschützer-Bolzen",
+        "EN": "Mountain-Bracing Bolt",
+        "ES": "Púa Sustentamontañas",
+        "FR": "Clou soutenant les montagnes",
+        "ID": "Mountain-Bracing Bolt",
+        "IT": "Chiodo reggimonti",
+        "JP": "鎮山の釘",
+        "KR": "산을 고정하는 못",
+        "PT": "Prego Esmagador de Montanhas",
+        "RU": "Крепящий горы шип",
+        "TH": "Mountain-Bracing Bolt",
+        "TR": "Dağ Sürgüsü",
+        "VI": "Mũi Đinh Trấn Núi"
     },
     "415520051": {
         "CHS": "虹的行迹",

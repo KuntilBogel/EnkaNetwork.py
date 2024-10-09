@@ -215,6 +215,12 @@
         "awakenIcon": "UI_EquipIcon_Sword_Purewill",
         "rankLevel": 4
     },
+    "11430": {
+        "nameTextMapHash": 495182275,
+        "icon": "UI_EquipIcon_Sword_Umpakati",
+        "awakenIcon": "UI_EquipIcon_Sword_Umpakati_Awaken",
+        "rankLevel": 4
+    },
     "11431": {
         "nameTextMapHash": 3434743027,
         "icon": "UI_EquipIcon_Sword_Isikhulu",
@@ -309,6 +315,12 @@
         "nameTextMapHash": 1009471939,
         "icon": "UI_EquipIcon_Sword_Estoc",
         "awakenIcon": "UI_EquipIcon_Sword_Estoc_Awaken",
+        "rankLevel": 5
+    },
+    "11516": {
+        "nameTextMapHash": 3432339555,
+        "icon": "UI_EquipIcon_Sword_XochitlsTube",
+        "awakenIcon": "UI_EquipIcon_Sword_XochitlsTube_Awaken",
         "rankLevel": 5
     },
     "12101": {
@@ -483,6 +495,12 @@
         "nameTextMapHash": 3693117451,
         "icon": "UI_EquipIcon_Claymore_Mechanic",
         "awakenIcon": "UI_EquipIcon_Claymore_Mechanic_Awaken",
+        "rankLevel": 4
+    },
+    "12430": {
+        "nameTextMapHash": 688237043,
+        "icon": "UI_EquipIcon_Claymore_Umpakati",
+        "awakenIcon": "UI_EquipIcon_Claymore_Umpakati_Awaken",
         "rankLevel": 4
     },
     "12431": {
@@ -705,6 +723,12 @@
         "nameTextMapHash": 882305891,
         "icon": "UI_EquipIcon_Pole_Mechanic",
         "awakenIcon": "UI_EquipIcon_Pole_Mechanic_Awaken",
+        "rankLevel": 4
+    },
+    "13430": {
+        "nameTextMapHash": 1965515667,
+        "icon": "UI_EquipIcon_Pole_Umpakati",
+        "awakenIcon": "UI_EquipIcon_Pole_Umpakati_Awaken",
         "rankLevel": 4
     },
     "13431": {

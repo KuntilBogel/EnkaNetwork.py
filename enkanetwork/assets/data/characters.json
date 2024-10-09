@@ -2022,5 +2022,45 @@
             1025,
             1026
         ]
+    },
+    "10000103": {
+        "nameTextMapHash": 2515292882,
+        "iconName": "UI_AvatarIcon_Xilonen",
+        "sideIconName": "UI_AvatarIcon_Side_Xilonen",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Rock",
+        "skills": [
+            11031,
+            11032,
+            11035
+        ],
+        "talents": [
+            1031,
+            1032,
+            1033,
+            1034,
+            1035,
+            1036
+        ]
+    },
+    "10000901": {
+        "nameTextMapHash": 3293134650,
+        "iconName": "UI_AvatarIcon_Mavuika",
+        "sideIconName": "UI_AvatarIcon_Side_Mavuika",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            10231,
+            10232,
+            10235
+        ],
+        "talents": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+        ]
     }
 }

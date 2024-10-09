@@ -3614,7 +3614,7 @@
         "IT": "Appunti di viaggio: Fiamma primordiale",
         "JP": "紀行·源火",
         "KR": "기행·불의 근원",
-        "PT": "Passe de Batalha:: Fogo Original",
+        "PT": "Passe de Batalha: Fogo Original",
         "RU": "Первозданный огонь",
         "TH": "บันทึก - เพลิงปฐมกาล",
         "TR": "Gezi Notları: Kadim Ateş",
@@ -3636,5 +3636,39 @@
         "TH": "การฉลอง - ทั้งหวานทั้งกรอบ",
         "TR": "Kutlama: Çıtır ve Tatlı",
         "VI": "Lễ Hội – Giòn Và Ngọt"
+    },
+    "1731853172": {
+        "CHS": "希诺宁·律动",
+        "CHT": "希諾寧·律動",
+        "DE": "Xilonen – Immer im Rhythmus",
+        "EN": "Xilonen: Cue Point",
+        "ES": "Xilonen - Ritmo",
+        "FR": "Xilonen - En rythme",
+        "ID": "Xilonen: Cue Point",
+        "IT": "Xilonen: Ritmo",
+        "JP": "シロネン・律動",
+        "KR": "실로닌·리듬",
+        "PT": "Xilonen: Ritmo",
+        "RU": "Ритм",
+        "TH": "Xilonen - จังหวะ",
+        "TR": "Xilonen: Şarkı Geçiş Yeri",
+        "VI": "Xilonen - Nhịp Điệu"
+    },
+    "3875363388": {
+        "CHS": "纪行·神诞",
+        "CHT": "紀行·神誕",
+        "DE": "Erlebnispass – Sabzeruz",
+        "EN": "Travel Notes: Sabzeruz",
+        "ES": "PB - Sabzeruz",
+        "FR": "PB - Sabzeruz",
+        "ID": "Catatan Perjalanan: Sabzeruz",
+        "IT": "Appunti di viaggio: Sabzeruz",
+        "JP": "紀行・神誕",
+        "KR": "기행·탄신",
+        "PT": "Passe de Batalha: Nascimento Divino",
+        "RU": "Сабзеруз",
+        "TH": "บันทึก - Sabzeruz",
+        "TR": "Gezi Notları: Sabzeruz",
+        "VI": "Nhật Ký Hành Trình - Sabzeruz"
     }
 }
