@@ -413,7 +413,7 @@ APIの完全なドキュメントが必要な場合は[EnkaNetwork API Docs](htt
 
 ## サポートと質問
 
-Enkanetwork.pyについてサポートや質問がある場合は[Enka.network discordサーバー](https://discord.gg/G3m7CWkssY)の[𝖯𝖸┃enkanetwork․py](https://discord.com/channels/840335525621268520/1046281445049647104)で **@M-307** へメンションしてください。
+Enkanetwork.pyについてサポートや質問がある場合は[Enka.network discordサーバー](https://discord.gg/G3m7CWkssY)の[𝖯𝖸┃enkanetwork․py](https://discord.com/channels/840335525621268520/1046281445049647104)で **@0kq** へメンションしてください。
 
 # ライセンス
 
